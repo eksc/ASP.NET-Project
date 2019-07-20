@@ -9,6 +9,7 @@ namespace ASP.NET_Project
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //first
         }
     }
 }
